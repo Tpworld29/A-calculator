@@ -1,4 +1,4 @@
-# My First Calculator 🧮
+# My First Calculator 
 
 ## About
 
